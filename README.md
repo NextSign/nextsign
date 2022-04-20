@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @NextSign
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NextSign/NextSign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, me chamo Eduardo Venancio fundador da @NextSign
+- 🌱 Projeto criando com o intuito de fazer você ter mais assertividades em sua negociações on-line
+- 💞️ Visite nosso site: nextsign.000webhostapp.com
+- 📫 Faça uma doação em nosso site para manter esse projeto ao público
